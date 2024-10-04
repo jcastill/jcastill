@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Jose Castillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcastill&theme=transparent&hide=stars&show_icons=true)](https://github.com/jcastill/github-readme-stats)
+
+<!--[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcastill)](https://github.com/jcastill/github-readme-stats)-->
 <!--
 **jcastill/jcastill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
