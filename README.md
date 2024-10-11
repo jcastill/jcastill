@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hi, I'm Jose Castillo, a Software Engineer in the Automation & Acceleration Engineering Team at Red Hat.
 
-[![Jose Castillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcastill&theme=transparent&hide=stars&show_icons=true)](https://github.com/jcastill/github-readme-stats)
+<!-- [![Jose Castillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcastill&theme=transparent&hide=stars&show_icons=true)](https://github.com/jcastill/github-readme-stats) -->
 
 <!--[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcastill)](https://github.com/jcastill/github-readme-stats)-->
 <!--
