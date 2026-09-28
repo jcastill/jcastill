@@ -1,6 +1,8 @@
 ## Hi there 👋
-Hi, I'm Jose Castillo, a Software Engineer in the Automation & Acceleration Engineering Team at Red Hat.
+Hi, I'm Jose Castillo, a Software Engineer in the CEE BI Engineering team at Red Hat.
 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jcastill&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=jcastill&include_all_commits=true&theme=tokyonight)
 <!--[![Jose Castillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcastill&theme=transparent&hide=stars&show_icons=true)](https://github.com/jcastill)
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcastill&layout=pie&theme=transparent)](https://github.com/jcastill/github-readme-stats)-->
